@@ -1,4 +1,3 @@
 # responseresume
 project URL Link- 
-
-(https://github.com/dharmendr963/responseresume/files/10432317/Dharmendr.Kumar.pdf)
+file:///C:/Users/Dharmendra%20kumar/Desktop/dsa/dsa.html
